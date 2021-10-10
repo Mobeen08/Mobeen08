@@ -1,0 +1,5 @@
+- 👋 Hi,
+- 👀 I’m interested in to develop a new software to solve problems
+- 🌱 I’m currently learning X++ in Microsoft Dynamics Ax 2012
+- 💬 Ask me about Web Development, Asp.net, JavaScript & Python
+- 📫 How to reach me: 📧Email: mobeenhasan00038@gmail.com or 🤙Call me: +92 336 6116076 / +92 303 0177881.
